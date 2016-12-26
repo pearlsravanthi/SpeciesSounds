@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Species Sounds</string>
+    <string name="app_description">Browse through species sounds.</string>
+    <string name="bird_sounds">Birds</string>
+    <string name="amphibian_sounds">Amphibians</string>
+    <string name="sounds_list">
+        This screen should list all species with their picture, name and a button to play the sound. \n
+        \n
+        With andriod media player class from SDK we can play audio from source
+    </string>
+    <string name="play_sound">Play Sound</string>
+    <string name="sound_detail_explanation">This activity displays the chosen sound and will stream it.</string>
+    <string name="back_to_sgroup_list">Back to species group list</string>
+    <string name="title_activity_sgroup">SGroupActivity</string>
+
+</resources>
